@@ -14,3 +14,8 @@ So, the above example would become simply:
 SELECT name
 FROM kids
 WHERE age IN (2, 4, 6, 8, 10);
+
+
+IS NULL
+IS NOT NULL
+
